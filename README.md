@@ -1,6 +1,7 @@
 # Open Source Code Repositories & Git Forges
 
 ![logo-transparent.png](res/logo-transparent.png)
+
 A curated list and comprehensive comparison of public code repositories, cloud-hosted Git platforms, and self-hostable open-source forge alternatives to GitHub.
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
